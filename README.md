@@ -12,6 +12,7 @@ Record Once and Do many!
 	2. Load / Performance Testing
 	3. Security Testing (Web application Vulnerability Testing/Assessment)
   		* OWASP Top 10
+  		* Integration with OWASP ZAP: zaproxy / similar
 	4. Analytics / Reporting
 
 Support following:-
@@ -27,5 +28,7 @@ Support following:-
 - Run Parallel test cases / suites 
 - HTML reports
 - Logging Events + Logstash
+- Performance Metrics collection in Graphite
 - CI with Jenkins 
 	- Email Notifications
+- Cloud / VM friendly
